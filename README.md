@@ -8,13 +8,17 @@
 
 <br/><br/>
 
-<a href="https://yusufaleprilhan.com">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=130&width=680&color=0:1e3a8a,50:2563eb,100:7c3aed&text=yusufaleprilhan.com&fontSize=36&fontColor=ffffff&stroke=ffffff&strokeWidth=0&animation=twinkling" alt="yusufaleprilhan.com" />
+**👇 Click to visit my website**
+
+<br/>
+
+<a href="https://yusufalperilhan.com">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=140&width=720&color=0:1e3a8a,50:2563eb,100:7c3aed&text=yusufalperilhan.com&fontSize=38&fontColor=ffffff&stroke=ffffff&strokeWidth=0&desc=%E2%86%92%20Click%20here%20to%20open&descSize=16&descAlignY=72&animation=twinkling" alt="Visit yusufalperilhan.com" />
 </a>
 
 <br/>
 
-<sub>portfolio · projects · live demos · contact</sub>
+**[yusufalperilhan.com](https://yusufalperilhan.com)** · *portfolio · projects · live demos · contact*
 
 <br/><br/>
 
